@@ -1,0 +1,590 @@
+player_id,direction,origin_league,destination_league,origin_season,destination_season,origin_team,destination_team,seasons_gap,player_age_at_migration
+11,EL_to_NBA,EuroLeague,NBA,2014/15,2016/17,Unicaja Malaga,NYK,1,27
+11,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Unicaja Malaga,NYK,0,27
+11,NBA_to_EL,NBA,EuroLeague,2016/17,2017/18,NYK,EA7 Emporio Armani Milan,0,28
+11,NBA_to_EL,NBA,EuroLeague,2017/18,2018/19,NYK,EA7 Emporio Armani Milan,0,29
+12,EL_to_NBA,EuroLeague,NBA,2002/03,2004/05,Maccabi Rapyd Tel Aviv,SAS,1,22
+12,NBA_to_EL,NBA,EuroLeague,2015/16,2017/18,TOT,Zalgiris Kaunas,1,35
+12,NBA_to_EL,NBA,EuroLeague,2016/17,2017/18,DET,Zalgiris Kaunas,0,35
+19,EL_to_NBA,EuroLeague,NBA,2012/13,2014/15,Unicaja Malaga,TOT,1,25
+19,EL_to_NBA,EuroLeague,NBA,2013/14,2014/15,Unicaja Malaga,TOT,0,25
+19,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,TOT,BC Khimki,0,26
+23,NBA_to_EL,NBA,EuroLeague,2015/16,2017/18,MIN,Valencia Basket,1,31
+23,NBA_to_EL,NBA,EuroLeague,2016/17,2017/18,ORL,Valencia Basket,0,31
+59,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,GSW,Crvena Zvezda Meridianbet Belgrade,1,24
+59,NBA_to_EL,NBA,EuroLeague,2012/13,2013/14,TOT,Crvena Zvezda Meridianbet Belgrade,0,24
+64,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,Baskonia Vitoria-Gasteiz,UTA,1,26
+64,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,FC Barcelona,UTA,0,26
+64,NBA_to_EL,NBA,EuroLeague,2015/16,2016/17,UTA,Galatasaray Spor Kulubu,0,27
+75,EL_to_NBA,EuroLeague,NBA,2011/12,2013/14,Olympiacos Piraeus,ATL,1,31
+75,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,Olympiacos Piraeus,ATL,0,31
+75,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,ATL,Fenerbahce Beko Istanbul,1,33
+75,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,ATL,Fenerbahce Beko Istanbul,0,33
+85,EL_to_NBA,EuroLeague,NBA,2017/18,2019/20,Fenerbahce Beko Istanbul,MEM,1,24
+85,EL_to_NBA,EuroLeague,NBA,2018/19,2019/20,Fenerbahce Beko Istanbul,MEM,0,24
+85,NBA_to_EL,NBA,EuroLeague,2019/20,2020/21,MEM,Fenerbahce Beko Istanbul,0,25
+92,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,FC Barcelona,LAL,1,32
+92,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,FC Barcelona,LAL,0,32
+92,NBA_to_EL,NBA,EuroLeague,2015/16,2017/18,LAL,Baskonia Vitoria-Gasteiz,1,34
+92,NBA_to_EL,NBA,EuroLeague,2016/17,2017/18,LAL,Baskonia Vitoria-Gasteiz,0,34
+101,NBA_to_EL,NBA,EuroLeague,2015/16,2017/18,TOT,Baskonia Vitoria-Gasteiz,1,26
+101,NBA_to_EL,NBA,EuroLeague,2016/17,2017/18,CLE,Baskonia Vitoria-Gasteiz,0,26
+101,EL_to_NBA,EuroLeague,NBA,2017/18,2018/19,Baskonia Vitoria-Gasteiz,WAS,0,27
+102,EL_to_NBA,EuroLeague,NBA,2017/18,2019/20,Fenerbahce Beko Istanbul,NOP,1,28
+102,EL_to_NBA,EuroLeague,NBA,2018/19,2019/20,Fenerbahce Beko Istanbul,NOP,0,28
+102,NBA_to_EL,NBA,EuroLeague,2019/20,2021/22,NOP,EA7 Emporio Armani Milan,1,30
+102,NBA_to_EL,NBA,EuroLeague,2020/21,2021/22,TOT,EA7 Emporio Armani Milan,0,30
+126,EL_to_NBA,EuroLeague,NBA,2018/19,2020/21,Real Madrid,DEN,1,29
+126,EL_to_NBA,EuroLeague,NBA,2019/20,2020/21,Real Madrid,DEN,0,29
+126,EL_to_NBA,EuroLeague,NBA,2020/21,2021/22,Real Madrid,DEN,0,30
+126,NBA_to_EL,NBA,EuroLeague,2021/22,2022/23,DEN,Crvena Zvezda Meridianbet Belgrade,0,31
+126,NBA_to_EL,NBA,EuroLeague,2022/23,2023/24,DAL,Real Madrid,0,32
+132,EL_to_NBA,EuroLeague,NBA,2016/17,2018/19,Real Madrid,DAL,1,19
+132,EL_to_NBA,EuroLeague,NBA,2017/18,2018/19,Real Madrid,DAL,0,19
+134,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,GSW,Panathinaikos AKTOR Athens,1,25
+134,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,GSW,Panathinaikos AKTOR Athens,0,25
+138,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,Rytas Vilnius,GSW,0,22
+138,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,GSW,Valencia Basket,0,23
+159,EL_to_NBA,EuroLeague,NBA,2021/22,2023/24,Anadolu Efes Istanbul,TOT,1,29
+159,EL_to_NBA,EuroLeague,NBA,2022/23,2023/24,Anadolu Efes Istanbul,TOT,0,29
+159,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,TOT,Hapoel Tel Aviv,1,31
+159,NBA_to_EL,NBA,EuroLeague,2024/25,2025/26,TOT,Hapoel Tel Aviv,0,31
+190,EL_to_NBA,EuroLeague,NBA,2016/17,2018/19,FC Barcelona,BKN,1,20
+190,EL_to_NBA,EuroLeague,NBA,2017/18,2018/19,FC Barcelona,BKN,0,20
+203,EL_to_NBA,EuroLeague,NBA,2009/10,2011/12,Partizan Mozzart Bet Belgrade,WAS,1,21
+203,EL_to_NBA,EuroLeague,NBA,2010/11,2011/12,Partizan Mozzart Bet Belgrade,WAS,0,21
+203,NBA_to_EL,NBA,EuroLeague,2012/13,2014/15,WAS,Fenerbahce Beko Istanbul,1,24
+203,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,WAS,Fenerbahce Beko Istanbul,0,24
+209,EL_to_NBA,EuroLeague,NBA,2016/17,2018/19,Darussafaka Basketbol,NOP,1,29
+209,EL_to_NBA,EuroLeague,NBA,2017/18,2018/19,EA7 Emporio Armani Milan,NOP,0,29
+209,NBA_to_EL,NBA,EuroLeague,2018/19,2019/20,NOP,BC Khimki,0,30
+212,EL_to_NBA,EuroLeague,NBA,2020/21,2022/23,ALBA Berlin,UTA,1,27
+212,EL_to_NBA,EuroLeague,NBA,2021/22,2022/23,Baskonia Vitoria-Gasteiz,UTA,0,27
+217,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Spirou Charleroi,BKN,0,21
+217,NBA_to_EL,NBA,EuroLeague,2012/13,2014/15,BKN,Baskonia Vitoria-Gasteiz,1,23
+217,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,TOT,Baskonia Vitoria-Gasteiz,0,23
+222,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,CHI,FC Bayern Munich,0,25
+257,NBA_to_EL,NBA,EuroLeague,1998/99,2000/01,UTA,PAOK BC,1,31
+257,NBA_to_EL,NBA,EuroLeague,1999/00,2000/01,LAC,PAOK BC,0,31
+260,NBA_to_EL,NBA,EuroLeague,1998/99,2000/01,SAC,KK Buducnost,1,25
+260,EL_to_NBA,EuroLeague,NBA,2000/01,2001/02,KK Buducnost,SEA,0,26
+264,NBA_to_EL,NBA,EuroLeague,1998/99,2000/01,MIL,Hapoel Jerusalem Basketball Club,1,34
+264,NBA_to_EL,NBA,EuroLeague,1999/00,2000/01,TOT,Hapoel Jerusalem Basketball Club,0,34
+277,EL_to_NBA,EuroLeague,NBA,2000/01,2002/03,KK Buducnost,MIN,1,24
+277,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,KK Buducnost,MIN,0,24
+301,EL_to_NBA,EuroLeague,NBA,2000/01,2001/02,Baskonia Vitoria-Gasteiz,DET,0,32
+301,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,DET,Unicaja Malaga;CSKA Moscow,0,33
+303,EL_to_NBA,EuroLeague,NBA,2007/08,2009/10,CSKA Moscow,HOU,1,29
+303,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,FC Barcelona,HOU,0,29
+303,NBA_to_EL,NBA,EuroLeague,2009/10,2011/12,HOU,Montepaschi Siena,1,31
+303,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,TOT,Montepaschi Siena,0,31
+319,EL_to_NBA,EuroLeague,NBA,2000/01,2002/03,Spirou Charleroi,MEM,1,25
+319,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,MEM,Panathinaikos AKTOR Athens,0,26
+330,EL_to_NBA,EuroLeague,NBA,2000/01,2001/02,KK Cedevita Olimpija,IND,0,22
+330,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,CHA,Pallacanestro Virtus Roma,1,29
+330,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,TOT,Pallacanestro Virtus Roma,0,29
+330,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Pallacanestro Virtus Roma,TOT,0,30
+334,NBA_to_EL,NBA,EuroLeague,1999/00,2000/01,DET,Benetton Basket Treviso,0,26
+343,NBA_to_EL,NBA,EuroLeague,1998/99,2000/01,MIA,Scaligera Basket Verona,1,32
+343,NBA_to_EL,NBA,EuroLeague,1999/00,2000/01,LAC,Scaligera Basket Verona,0,32
+372,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Unicaja Malaga,TOR,1,29
+372,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Unicaja Malaga,TOR,0,29
+372,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,TOR,Real Madrid,1,32
+380,EL_to_NBA,EuroLeague,NBA,2000/01,2002/03,KK Cibona,TOT,1,25
+380,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,CSKA Moscow,TOT,0,25
+380,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,UTA,Fenerbahce Beko Istanbul,1,31
+380,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,UTA,Fenerbahce Beko Istanbul,0,31
+396,EL_to_NBA,EuroLeague,NBA,2000/01,2002/03,Virtus Bologna,LAC,1,24
+396,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Virtus Bologna,LAC,0,24
+396,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,MIN,Real Madrid,1,31
+396,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,MEM,Real Madrid,0,31
+397,EL_to_NBA,EuroLeague,NBA,2003/04,2005/06,Maccabi Rapyd Tel Aviv,IND,1,29
+397,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Maccabi Rapyd Tel Aviv,IND,0,29
+397,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,IND,Panathinaikos AKTOR Athens,1,31
+397,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,TOT,Panathinaikos AKTOR Athens,0,31
+428,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,Real Madrid,UTA,1,23
+447,NBA_to_EL,NBA,EuroLeague,1998/99,2000/01,PHX,Real Madrid,1,23
+455,EL_to_NBA,EuroLeague,NBA,2000/01,2002/03,Benetton Basket Treviso,HOU,1,22
+455,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Benetton Basket Treviso,HOU,0,22
+455,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,NJN,Anadolu Efes Istanbul,1,29
+461,EL_to_NBA,EuroLeague,NBA,2003/04,2005/06,Valencia Basket,SAS,1,30
+473,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,KK Cibona,NJN,1,21
+473,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,KK Cibona,NJN,0,21
+473,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,NJN,Baskonia Vitoria-Gasteiz,1,24
+473,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,NJN,Baskonia Vitoria-Gasteiz,0,24
+503,NBA_to_EL,NBA,EuroLeague,1998/99,2000/01,NJN,FC Barcelona,1,35
+544,EL_to_NBA,EuroLeague,NBA,2000/01,2002/03,KK Cedevita Olimpija,GSW,1,22
+544,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,KK Cedevita Olimpija,GSW,0,22
+544,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,TOT,Unicaja Malaga,1,26
+544,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,MIL,Unicaja Malaga,0,26
+559,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,TOT,Virtus Bologna,0,23
+565,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Baskonia Vitoria-Gasteiz,UTA,0,23
+565,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,ORL,Maccabi Rapyd Tel Aviv,1,29
+565,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,ORL,Maccabi Rapyd Tel Aviv,0,29
+565,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Maccabi Rapyd Tel Aviv,MIA,0,30
+566,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,KK Cibona,MIL,1,21
+566,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,KK Cibona,MIL,0,21
+566,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,MIL,Zalgiris Kaunas,0,22
+570,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,Real Madrid,PHX,1,18
+570,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Real Madrid,PHX,0,18
+573,EL_to_NBA,EuroLeague,NBA,2002/03,2004/05,FC Barcelona,CLE,1,22
+573,EL_to_NBA,EuroLeague,NBA,2003/04,2004/05,FC Barcelona,CLE,0,22
+592,NBA_to_EL,NBA,EuroLeague,2000/01,2001/02,DEN,Fortitudo Pallacanestro Bologna 103,0,30
+592,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Fortitudo Pallacanestro Bologna 103,WAS,0,31
+600,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,LAL,LDLC ASVEL Villeurbanne;Fortitudo Pallacanestro Bologna 103,1,24
+650,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,KK Buducnost,PHX,1,22
+650,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,KK Buducnost,PHX,0,22
+654,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,Peristeri BC,TOT,1,27
+662,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,Elan Bearnais Pau-Lacq-Orthez,ATL,1,21
+662,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Elan Bearnais Pau-Lacq-Orthez,ATL,0,21
+667,NBA_to_EL,NBA,EuroLeague,2000/01,2001/02,IND,Benetton Basket Treviso,0,28
+702,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,CHH,WKS Slask Wroclaw,1,29
+702,NBA_to_EL,NBA,EuroLeague,2000/01,2001/02,CLE,WKS Slask Wroclaw,0,29
+708,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Maccabi Rapyd Tel Aviv,TOR,0,27
+724,EL_to_NBA,EuroLeague,NBA,2002/03,2004/05,Partizan Mozzart Bet Belgrade,NJN,1,21
+724,EL_to_NBA,EuroLeague,NBA,2003/04,2004/05,Partizan Mozzart Bet Belgrade,NJN,0,21
+724,NBA_to_EL,NBA,EuroLeague,2009/10,2011/12,OKC,CSKA Moscow,1,28
+724,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,TOT,CSKA Moscow,0,28
+763,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Anadolu Efes Istanbul,DET,0,23
+767,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,Fenerbahce Beko Istanbul,ORL,1,19
+767,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Fenerbahce Beko Istanbul,ORL,0,19
+767,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,ATL,Galatasaray Spor Kulubu,0,27
+767,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Galatasaray Spor Kulubu,ATL,0,28
+775,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,ORL,Maccabi Rapyd Tel Aviv,1,26
+775,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Maccabi Rapyd Tel Aviv,TOR,1,31
+775,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Maccabi Rapyd Tel Aviv,TOR,0,31
+779,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,KK Buducnost,UTA,1,20
+779,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,KK Buducnost,UTA,0,20
+779,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,BOS,Partizan Mozzart Bet Belgrade,1,30
+779,NBA_to_EL,NBA,EuroLeague,2012/13,2013/14,POR,Partizan Mozzart Bet Belgrade,0,30
+791,EL_to_NBA,EuroLeague,NBA,2001/02,2003/04,Elan Bearnais Pau-Lacq-Orthez,GSW,1,21
+791,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Elan Bearnais Pau-Lacq-Orthez,GSW,0,21
+800,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,DEN,CSKA Moscow,1,28
+805,NBA_to_EL,NBA,EuroLeague,2000/01,2001/02,TOT,Panathinaikos AKTOR Athens,0,24
+805,EL_to_NBA,EuroLeague,NBA,2001/02,2002/03,Panathinaikos AKTOR Athens,DET,0,25
+805,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,DET,Unicaja Malaga,1,27
+827,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,IND,Real Madrid,1,31
+827,NBA_to_EL,NBA,EuroLeague,2000/01,2001/02,IND,Real Madrid,0,31
+828,NBA_to_EL,NBA,EuroLeague,2000/01,2001/02,CHI,Real Madrid,0,28
+835,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,TOT,CSKA Moscow,1,25
+843,NBA_to_EL,NBA,EuroLeague,1999/00,2001/02,SEA,WKS Slask Wroclaw,1,30
+872,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,DET,KK Cedevita Olimpija,0,23
+877,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,TOT,WKS Slask Wroclaw,1,27
+884,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,PHI,WKS Slask Wroclaw,0,24
+892,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,MIN,Olympiacos Piraeus,0,24
+892,EL_to_NBA,EuroLeague,NBA,2002/03,2004/05,Olympiacos Piraeus,SAC,1,26
+892,EL_to_NBA,EuroLeague,NBA,2003/04,2004/05,Benetton Basket Treviso,SAC,0,26
+893,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,SAS,Virtus Bologna,1,27
+893,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,TOT,Virtus Bologna,0,27
+893,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Virtus Bologna,ORL,0,28
+914,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,PHI,Panathinaikos AKTOR Athens,1,25
+914,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,MEM,Panathinaikos AKTOR Athens,0,25
+914,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Panathinaikos AKTOR Athens,SAC,0,26
+914,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,NJN,Maccabi Rapyd Tel Aviv,1,29
+916,EL_to_NBA,EuroLeague,NBA,2003/04,2005/06,Baskonia Vitoria-Gasteiz,TOR,1,24
+916,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Baskonia Vitoria-Gasteiz,TOR,0,24
+921,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,TOT,Zalgiris Kaunas,1,31
+927,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,CLE,CSKA Moscow,1,35
+927,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,MIA,CSKA Moscow,0,35
+940,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,CLE,Benetton Basket Treviso,1,26
+940,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,CLE,Benetton Basket Treviso,0,26
+943,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,UTA,Maccabi Rapyd Tel Aviv,1,25
+943,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,UTA,Maccabi Rapyd Tel Aviv,0,25
+943,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,Maccabi Rapyd Tel Aviv,MIN,0,26
+943,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,MIN,Olympiacos Piraeus,1,28
+948,NBA_to_EL,NBA,EuroLeague,2000/01,2002/03,ATL,Baskonia Vitoria-Gasteiz,1,26
+948,NBA_to_EL,NBA,EuroLeague,2001/02,2002/03,ATL,Baskonia Vitoria-Gasteiz,0,26
+951,EL_to_NBA,EuroLeague,NBA,2003/04,2005/06,LDLC ASVEL Villeurbanne,UTA,1,34
+955,EL_to_NBA,EuroLeague,NBA,2005/06,2007/08,Partizan Mozzart Bet Belgrade,GSW,1,22
+955,EL_to_NBA,EuroLeague,NBA,2006/07,2007/08,Partizan Mozzart Bet Belgrade,GSW,0,22
+964,EL_to_NBA,EuroLeague,NBA,2002/03,2003/04,CSKA Moscow,SAC,0,25
+964,NBA_to_EL,NBA,EuroLeague,2009/10,2011/12,NOH,Galatasaray Spor Kulubu,1,33
+964,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,PHI,Galatasaray Spor Kulubu,0,33
+984,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,NOH,Valencia Basket,0,34
+984,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,NJN,Zalgiris Kaunas,0,35
+985,NBA_to_EL,NBA,EuroLeague,2001/02,2003/04,ORL,Elan Bearnais Pau-Lacq-Orthez,1,24
+985,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,ORL,Elan Bearnais Pau-Lacq-Orthez,0,24
+988,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,BOS,Maccabi Rapyd Tel Aviv,0,23
+988,EL_to_NBA,EuroLeague,NBA,2003/04,2004/05,Maccabi Rapyd Tel Aviv,NYK,0,24
+1001,EL_to_NBA,EuroLeague,NBA,2003/04,2004/05,Pallacanestro Virtus Roma,CHA,0,31
+1002,EL_to_NBA,EuroLeague,NBA,2003/04,2004/05,AEK Athens,DET,0,30
+1002,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,DET,Anadolu Efes Istanbul,1,32
+1014,NBA_to_EL,NBA,EuroLeague,2001/02,2003/04,CHI,Olympiacos Piraeus,1,23
+1014,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,CHI,Olympiacos Piraeus,0,23
+1017,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Benetton Basket Treviso,TOR,1,21
+1017,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Benetton Basket Treviso,TOR,0,21
+1017,NBA_to_EL,NBA,EuroLeague,2014/15,2016/17,NYK,Baskonia Vitoria-Gasteiz,1,31
+1017,NBA_to_EL,NBA,EuroLeague,2015/16,2016/17,BKN,Baskonia Vitoria-Gasteiz,0,31
+1018,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,TOR,Maccabi Rapyd Tel Aviv,0,27
+1018,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Maccabi Rapyd Tel Aviv,IND,1,30
+1018,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Maccabi Rapyd Tel Aviv,IND,0,30
+1040,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,MIL,Olympiacos Piraeus,0,28
+1042,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Unicaja Malaga,CHA,1,27
+1042,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Unicaja Malaga,CHA,0,27
+1042,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,TOT,Baskonia Vitoria-Gasteiz,1,30
+1042,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,DET,Baskonia Vitoria-Gasteiz,0,30
+1062,EL_to_NBA,EuroLeague,NBA,2003/04,2005/06,Baskonia Vitoria-Gasteiz,NOK,1,25
+1062,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Baskonia Vitoria-Gasteiz,NOK,0,25
+1062,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,NOK,Olympiacos Piraeus,0,26
+1077,EL_to_NBA,EuroLeague,NBA,2003/04,2005/06,Elan Bearnais Pau-Lacq-Orthez,SEA,1,19
+1077,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Elan Bearnais Pau-Lacq-Orthez,SEA,0,19
+1086,NBA_to_EL,NBA,EuroLeague,2002/03,2003/04,POR,Zalgiris Kaunas,0,39
+1093,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Benetton Basket Treviso,TOR,1,23
+1093,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Benetton Basket Treviso,TOR,0,23
+1096,EL_to_NBA,EuroLeague,NBA,2008/09,2010/11,Baskonia Vitoria-Gasteiz,SAS,1,25
+1096,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Baskonia Vitoria-Gasteiz,SAS,0,25
+1116,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,WAS,Panathinaikos AKTOR Athens,0,25
+1116,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Panathinaikos AKTOR Athens,TOT,0,26
+1124,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,MEM,Real Madrid,0,24
+1130,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,MEM,Scavolini Pesaro,1,24
+1130,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,TOT,Scavolini Pesaro,0,24
+1131,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,LAL,Panathinaikos AKTOR Athens,1,33
+1131,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,POR,Panathinaikos AKTOR Athens,0,33
+1133,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,ATL,Fortitudo Pallacanestro Bologna 103,1,31
+1133,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,PHI,Fortitudo Pallacanestro Bologna 103,0,31
+1139,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,TOT,Fenerbahce Beko Istanbul,0,26
+1140,EL_to_NBA,EuroLeague,NBA,2008/09,2010/11,Fenerbahce Beko Istanbul,TOT,1,24
+1140,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Fenerbahce Beko Istanbul,TOT,0,24
+1140,NBA_to_EL,NBA,EuroLeague,2010/11,2012/13,TOT,Anadolu Efes Istanbul,1,26
+1140,NBA_to_EL,NBA,EuroLeague,2011/12,2012/13,CLE,Anadolu Efes Istanbul,0,26
+1144,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Zalgiris Kaunas,CLE,0,19
+1155,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,ORL,Real Madrid,1,31
+1155,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Real Madrid,PHX,0,32
+1155,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,PHX,Arka Gdynia,1,35
+1176,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Real Madrid,SEA,1,23
+1176,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Real Madrid,SEA,0,23
+1179,NBA_to_EL,NBA,EuroLeague,2003/04,2004/05,ATL,Baskonia Vitoria-Gasteiz,0,26
+1181,EL_to_NBA,EuroLeague,NBA,2004/05,2006/07,Fenerbahce Beko Istanbul,MIL,1,19
+1181,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,MIL,FC Barcelona,0,20
+1181,EL_to_NBA,EuroLeague,NBA,2007/08,2009/10,FC Barcelona,MIL,1,22
+1181,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,FC Barcelona,MIL,0,22
+1181,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,MIL,Anadolu Efes Istanbul,0,24
+1181,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Anadolu Efes Istanbul,MIL,0,25
+1194,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,CSKA Moscow,LAC,0,18
+1221,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,NYK,Olympiacos Piraeus,1,26
+1234,NBA_to_EL,NBA,EuroLeague,2002/03,2004/05,POR,Scavolini Pesaro,1,29
+1234,EL_to_NBA,EuroLeague,NBA,2004/05,2005/06,Scavolini Pesaro,TOT,0,30
+1234,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,TOT,Real Madrid,1,32
+1246,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,LAC,AEK Athens;Baskonia Vitoria-Gasteiz,0,25
+1247,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,Fortitudo Pallacanestro Bologna 103,DEN,0,24
+1258,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,TOT,Rytas Vilnius,0,26
+1260,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,BOS,Panathinaikos AKTOR Athens,1,25
+1260,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,ORL,Panathinaikos AKTOR Athens,0,25
+1274,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,MIA,Fenerbahce Beko Istanbul,1,25
+1295,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,LAC,Baskonia Vitoria-Gasteiz,1,30
+1295,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,ATL,Baskonia Vitoria-Gasteiz,0,30
+1300,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,EA7 Emporio Armani Milan,NYK,0,20
+1300,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,TOT,EA7 Emporio Armani Milan,0,23
+1300,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,EA7 Emporio Armani Milan,DEN,0,24
+1311,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,MIL,Fenerbahce Beko Istanbul,1,25
+1311,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,IND,Fenerbahce Beko Istanbul,0,25
+1311,EL_to_NBA,EuroLeague,NBA,2007/08,2009/10,Unicaja Malaga,SAS,1,29
+1311,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Unicaja Malaga,SAS,0,29
+1311,NBA_to_EL,NBA,EuroLeague,2009/10,2010/11,SAS,Baskonia Vitoria-Gasteiz,0,30
+1313,EL_to_NBA,EuroLeague,NBA,2011/12,2013/14,Spirou Charleroi,TOT,1,33
+1317,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,PHX,Baskonia Vitoria-Gasteiz,1,24
+1317,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,TOT,Baskonia Vitoria-Gasteiz,0,24
+1317,EL_to_NBA,EuroLeague,NBA,2005/06,2007/08,Baskonia Vitoria-Gasteiz,MEM,1,26
+1317,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,MEM,ALBA Berlin,0,27
+1340,EL_to_NBA,EuroLeague,NBA,2008/09,2010/11,Panathinaikos AKTOR Athens,MIN,1,24
+1340,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Panathinaikos AKTOR Athens,MIN,0,24
+1340,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,MIN,Partizan Mozzart Bet Belgrade,0,25
+1340,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Partizan Mozzart Bet Belgrade,MIN,0,26
+1349,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,MIL,Unicaja Malaga,1,29
+1349,NBA_to_EL,NBA,EuroLeague,2004/05,2005/06,MIL,Unicaja Malaga,0,29
+1365,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,DEN,Fenerbahce Beko Istanbul,1,26
+1372,NBA_to_EL,NBA,EuroLeague,2003/04,2005/06,TOT,FC Barcelona,1,30
+1372,EL_to_NBA,EuroLeague,NBA,2005/06,2006/07,FC Barcelona,LAL,0,31
+1387,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,WAS,Anadolu Efes Istanbul,1,29
+1387,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,LAL,Anadolu Efes Istanbul,0,29
+1390,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,ATL,Dynamo Moscow,1,31
+1391,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,CHI,Fenerbahce Beko Istanbul,0,23
+1394,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,DET,Olympiacos Piraeus,0,23
+1394,EL_to_NBA,EuroLeague,NBA,2006/07,2008/09,Olympiacos Piraeus,TOT,1,25
+1394,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,FC Barcelona,TOT,0,25
+1394,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,TOT,EA7 Emporio Armani Milan,0,26
+1400,EL_to_NBA,EuroLeague,NBA,2006/07,2008/09,Le Mans Sarthe Basket,POR,1,20
+1400,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,Le Mans Sarthe Basket,POR,0,20
+1400,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,POR,Stade Lorrain Universite Club Nancy Basket,0,23
+1400,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Stade Lorrain Universite Club Nancy Basket,POR,0,24
+1404,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,LAL,Napoli Basketball,1,27
+1407,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,GSW,Maccabi Rapyd Tel Aviv,0,23
+1407,EL_to_NBA,EuroLeague,NBA,2006/07,2008/09,Maccabi Rapyd Tel Aviv,DET,1,25
+1407,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,Maccabi Rapyd Tel Aviv,DET,0,25
+1417,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,ATL,Panathinaikos AKTOR Athens,1,32
+1417,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,TOT,Panathinaikos AKTOR Athens,0,32
+1422,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,SEA,Maccabi Rapyd Tel Aviv,0,25
+1432,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,IND,Dynamo Moscow,1,28
+1432,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,IND,Dynamo Moscow,0,28
+1432,EL_to_NBA,EuroLeague,NBA,2006/07,2007/08,Dynamo Moscow,TOT,0,29
+1433,EL_to_NBA,EuroLeague,NBA,2006/07,2007/08,RheinStars Koln,ORL,0,23
+1440,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,IND,Elan Bearnais Pau-Lacq-Orthez,1,27
+1441,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,ORL,FC Barcelona,1,26
+1441,NBA_to_EL,NBA,EuroLeague,2005/06,2006/07,ORL,FC Barcelona,0,26
+1450,EL_to_NBA,EuroLeague,NBA,2006/07,2007/08,Elan Bearnais Pau-Lacq-Orthez,SAS,0,21
+1459,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,TOT,Pallacanestro Virtus Roma,1,28
+1475,NBA_to_EL,NBA,EuroLeague,2004/05,2006/07,GSW,Napoli Basketball,1,30
+1481,EL_to_NBA,EuroLeague,NBA,2010/11,2012/13,Baskonia Vitoria-Gasteiz,BKN,1,27
+1481,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Baskonia Vitoria-Gasteiz,BKN,0,27
+1499,EL_to_NBA,EuroLeague,NBA,2012/13,2014/15,Fenerbahce Beko Istanbul,BKN,1,25
+1499,EL_to_NBA,EuroLeague,NBA,2013/14,2014/15,Fenerbahce Beko Istanbul,BKN,0,25
+1502,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,CHA,Virtus Bologna,1,25
+1502,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,CHA,Virtus Bologna,0,25
+1502,EL_to_NBA,EuroLeague,NBA,2009/10,2011/12,Maccabi Rapyd Tel Aviv,TOR,1,29
+1502,EL_to_NBA,EuroLeague,NBA,2010/11,2011/12,FC Barcelona,TOR,0,29
+1506,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Fenerbahce Beko Istanbul,CHI,0,24
+1511,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,ATL,Maccabi Rapyd Tel Aviv,1,24
+1511,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,ATL,Maccabi Rapyd Tel Aviv,0,24
+1516,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,PHI,Zalgiris Kaunas,1,28
+1518,NBA_to_EL,NBA,EuroLeague,2011/12,2012/13,SAS,ALBA Berlin,0,28
+1523,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,TOT,Virtus Bologna,0,25
+1523,EL_to_NBA,EuroLeague,NBA,2007/08,2009/10,Virtus Bologna,HOU,1,27
+1535,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,KK Cedevita Olimpija,PHX,0,22
+1535,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,TOT,Baskonia Vitoria-Gasteiz,0,25
+1535,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Baskonia Vitoria-Gasteiz,PHX,0,26
+1540,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,NOK,Maccabi Rapyd Tel Aviv,1,29
+1542,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,MIL,EA7 Emporio Armani Milan,1,26
+1555,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,TOT,Olympiacos Piraeus,1,32
+1555,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,NOK,Olympiacos Piraeus,0,32
+1556,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,NOK,Baskonia Vitoria-Gasteiz,0,27
+1556,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,Baskonia Vitoria-Gasteiz,TOT,0,28
+1584,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,ORL,Maccabi Rapyd Tel Aviv,1,28
+1585,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Arka Gdynia,HOU,0,22
+1592,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,UTA,Partizan Mozzart Bet Belgrade,1,29
+1601,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,BOS,Pallacanestro Virtus Roma,0,23
+1608,EL_to_NBA,EuroLeague,NBA,2008/09,2010/11,Baskonia Vitoria-Gasteiz,WAS,1,26
+1608,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,OKC,Neptunas Klaipeda,0,30
+1610,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,LAC,Baskonia Vitoria-Gasteiz,1,26
+1610,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,LAC,Baskonia Vitoria-Gasteiz,0,26
+1610,EL_to_NBA,EuroLeague,NBA,2007/08,2008/09,Baskonia Vitoria-Gasteiz,DAL,0,27
+1612,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,TOR,Arka Gdynia,1,26
+1612,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,TOR,Arka Gdynia,0,26
+1618,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,CSKA Moscow,LAC,1,30
+1618,EL_to_NBA,EuroLeague,NBA,2016/17,2017/18,CSKA Moscow,LAC,0,30
+1620,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,MEM,Olympiacos Piraeus,1,28
+1620,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,TOT,Olympiacos Piraeus,0,28
+1623,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,NOK,Rytas Vilnius,1,26
+1625,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,GSW,Arka Gdynia,0,24
+1630,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,TOR,Anadolu Efes Istanbul,1,29
+1630,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,HOU,Zalgiris Kaunas,0,30
+1631,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,NYK,Olympiacos Piraeus,1,26
+1632,NBA_to_EL,NBA,EuroLeague,2005/06,2007/08,MIN,Aris Thessaloniki,1,23
+1632,NBA_to_EL,NBA,EuroLeague,2006/07,2007/08,MIN,Aris Thessaloniki,0,23
+1636,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,UTA,Maccabi Rapyd Tel Aviv,1,24
+1637,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,NOK,Olympiacos Piraeus,1,29
+1637,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,NOH,Olympiacos Piraeus,0,29
+1637,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Olympiacos Piraeus,CHI,0,30
+1642,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,CHI,FC Barcelona,1,26
+1642,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,LAC,FC Barcelona,0,26
+1653,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,ATL,Olympiacos Piraeus,1,25
+1653,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,ATL,Olympiacos Piraeus,0,25
+1653,EL_to_NBA,EuroLeague,NBA,2008/09,2010/11,Olympiacos Piraeus,PHX,1,27
+1653,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Olympiacos Piraeus,PHX,0,27
+1662,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,LAC,Arka Gdynia,1,25
+1663,EL_to_NBA,EuroLeague,NBA,2008/09,2010/11,Club Joventut Badalona,CLE,1,21
+1663,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,TOT,GSS Akcyjna,1,24
+1674,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,WAS,EA7 Emporio Armani Milan,1,24
+1676,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,MEM,KK Cedevita Olimpija,1,28
+1686,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Pallacanestro Virtus Roma,MIL,0,20
+1687,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,CLE,Anadolu Efes Istanbul,0,25
+1690,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,CSKA Moscow,CLE,1,30
+1690,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,CSKA Moscow,CLE,0,30
+1698,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,IND,KK Cibona,1,26
+1699,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,DAL,Club Joventut Badalona,1,25
+1699,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Club Joventut Badalona,TOT,0,26
+1699,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,CSKA Moscow,NOH,0,27
+1726,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,SAC,EA7 Emporio Armani Milan,1,32
+1734,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,TOT,SS Felice Scandone,1,24
+1735,NBA_to_EL,NBA,EuroLeague,2006/07,2008/09,MIA,Maccabi Rapyd Tel Aviv,1,25
+1735,NBA_to_EL,NBA,EuroLeague,2007/08,2008/09,MIA,Maccabi Rapyd Tel Aviv,0,25
+1735,EL_to_NBA,EuroLeague,NBA,2008/09,2009/10,Maccabi Rapyd Tel Aviv,ORL,0,26
+1739,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Unicaja Malaga,PHX,0,26
+1747,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,KK Cedevita Olimpija,SAS,0,27
+1767,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,TOT,Unicaja Malaga,1,31
+1767,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,WAS,Unicaja Malaga,0,31
+1782,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Unicaja Malaga,SAC,0,27
+1788,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,DEN,Olympiacos Piraeus,1,24
+1788,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,DEN,Olympiacos Piraeus,0,24
+1788,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Olympiacos Piraeus,TOR,0,25
+1788,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,TOR,Fenerbahce Beko Istanbul,1,28
+1788,NBA_to_EL,NBA,EuroLeague,2012/13,2013/14,TOR,Fenerbahce Beko Istanbul,0,28
+1803,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,DAL,BC Nizhny Novgorod,0,26
+1803,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,NOP,Crvena Zvezda Meridianbet Belgrade,0,27
+1808,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,BC Khimki,TOT,0,24
+1829,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,TOT,Baskonia Vitoria-Gasteiz,0,24
+1838,NBA_to_EL,NBA,EuroLeague,2007/08,2009/10,TOT,Olympiacos Piraeus,1,24
+1838,NBA_to_EL,NBA,EuroLeague,2008/09,2009/10,HOU,Olympiacos Piraeus,0,24
+1838,EL_to_NBA,EuroLeague,NBA,2009/10,2010/11,Olympiacos Piraeus,BOS,0,25
+1849,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,Fenerbahce Beko Istanbul,MIN,1,27
+1849,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,Fenerbahce Beko Istanbul,MIN,0,27
+1849,NBA_to_EL,NBA,EuroLeague,2020/21,2022/23,TOT,Fenerbahce Beko Istanbul,1,34
+1849,NBA_to_EL,NBA,EuroLeague,2021/22,2022/23,GSW,Fenerbahce Beko Istanbul,0,34
+1876,EL_to_NBA,EuroLeague,NBA,2012/13,2014/15,FC Barcelona,UTA,1,27
+1876,EL_to_NBA,EuroLeague,NBA,2013/14,2014/15,Maccabi Rapyd Tel Aviv,UTA,0,27
+1892,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,Crvena Zvezda Meridianbet Belgrade,SAS,1,27
+1892,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,Crvena Zvezda Meridianbet Belgrade,SAS,0,27
+1892,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,HOU,Fenerbahce Beko Istanbul,1,36
+1892,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,HOU,Fenerbahce Beko Istanbul,0,36
+1894,NBA_to_EL,NBA,EuroLeague,2008/09,2010/11,CHA,Fenerbahce Beko Istanbul,1,26
+1894,NBA_to_EL,NBA,EuroLeague,2009/10,2010/11,SAC,Fenerbahce Beko Istanbul,0,26
+1898,NBA_to_EL,NBA,EuroLeague,2008/09,2010/11,ATL,Anadolu Efes Istanbul,1,31
+1898,NBA_to_EL,NBA,EuroLeague,2009/10,2010/11,TOT,Anadolu Efes Istanbul,0,31
+1901,NBA_to_EL,NBA,EuroLeague,2008/09,2010/11,IND,Olympiacos Piraeus,1,34
+1901,NBA_to_EL,NBA,EuroLeague,2009/10,2010/11,TOR,Olympiacos Piraeus,0,34
+1906,NBA_to_EL,NBA,EuroLeague,2008/09,2010/11,WAS,EA7 Emporio Armani Milan,1,25
+1906,NBA_to_EL,NBA,EuroLeague,2009/10,2010/11,MIN,EA7 Emporio Armani Milan,0,25
+1908,EL_to_NBA,EuroLeague,NBA,2011/12,2013/14,Partizan Mozzart Bet Belgrade,MIL,1,25
+1908,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,MIL,Panathinaikos AKTOR Athens,1,27
+1908,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,MIN,Panathinaikos AKTOR Athens,0,27
+1910,NBA_to_EL,NBA,EuroLeague,2008/09,2010/11,ORL,Valencia Basket,1,26
+1923,EL_to_NBA,EuroLeague,NBA,2010/11,2012/13,Rytas Vilnius,TOR,1,20
+1928,NBA_to_EL,NBA,EuroLeague,2009/10,2010/11,OKC,Arka Gdynia,0,31
+1933,EL_to_NBA,EuroLeague,NBA,2013/14,2014/15,Galatasaray Spor Kulubu,PHI,0,23
+1933,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,PHI,Darussafaka Basketbol,0,24
+1939,EL_to_NBA,EuroLeague,NBA,2014/15,2016/17,Baskonia Vitoria-Gasteiz,SAS,1,24
+1939,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Baskonia Vitoria-Gasteiz,SAS,0,24
+1939,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,TOT,Dubai Basketball,1,33
+1943,NBA_to_EL,NBA,EuroLeague,2009/10,2011/12,TOT,Arka Gdynia,1,33
+1949,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,NJN,Maccabi Rapyd Tel Aviv,0,25
+1949,NBA_to_EL,NBA,EuroLeague,2011/12,2012/13,NJN,Anadolu Efes Istanbul,0,26
+1949,EL_to_NBA,EuroLeague,NBA,2011/12,2013/14,Maccabi Rapyd Tel Aviv,LAL,1,27
+1949,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,Anadolu Efes Istanbul,LAL,0,27
+1949,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,LAC,Maccabi Rapyd Tel Aviv,0,29
+1949,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Maccabi Rapyd Tel Aviv,SAC,0,30
+1953,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,WAS,Arka Gdynia,0,24
+1953,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Arka Gdynia,CLE,0,25
+1959,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,SAS,KK Cedevita Olimpija,0,24
+1959,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,KK Cedevita Olimpija,SAS,0,25
+1968,NBA_to_EL,NBA,EuroLeague,2009/10,2011/12,UTA,CSKA Moscow,1,30
+1968,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,UTA,CSKA Moscow,0,30
+1968,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,CSKA Moscow,MIN,0,31
+1968,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,BKN,CSKA Moscow,0,33
+1973,NBA_to_EL,NBA,EuroLeague,2009/10,2011/12,TOT,Olympiacos Piraeus;Partizan Mozzart Bet Belgrade,1,26
+1973,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,TOT,Olympiacos Piraeus;Partizan Mozzart Bet Belgrade,0,26
+1974,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,DEN,Zalgiris Kaunas,0,24
+1974,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Zalgiris Kaunas,DEN,0,25
+1999,EL_to_NBA,EuroLeague,NBA,2014/15,2016/17,Anadolu Efes Istanbul,PHI,1,22
+1999,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Anadolu Efes Istanbul,PHI,0,22
+2003,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,OKC,Fenerbahce Beko Istanbul,0,27
+2003,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Fenerbahce Beko Istanbul,OKC,0,28
+2006,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Real Madrid,DET,0,24
+2022,NBA_to_EL,NBA,EuroLeague,2010/11,2011/12,GSW,Baskonia Vitoria-Gasteiz,0,25
+2022,EL_to_NBA,EuroLeague,NBA,2011/12,2012/13,Baskonia Vitoria-Gasteiz,CHA,0,26
+2029,NBA_to_EL,NBA,EuroLeague,2010/11,2012/13,WAS,Panathinaikos AKTOR Athens,1,28
+2029,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,Panathinaikos AKTOR Athens,GSW,0,29
+2031,NBA_to_EL,NBA,EuroLeague,2010/11,2012/13,TOR,Panathinaikos AKTOR Athens,1,31
+2033,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,Fenerbahce Beko Istanbul,SAC,1,25
+2033,EL_to_NBA,EuroLeague,NBA,2016/17,2017/18,Fenerbahce Beko Istanbul,SAC,0,25
+2039,EL_to_NBA,EuroLeague,NBA,2012/13,2014/15,Elan Sportif Chalonnais,HOU,1,20
+2043,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,CSKA Moscow,PHX,0,27
+2061,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,FC Barcelona,ORL,1,20
+2061,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,FC Barcelona,ORL,0,20
+2061,NBA_to_EL,NBA,EuroLeague,2018/19,2020/21,NYK,Panathinaikos AKTOR Athens,1,25
+2061,NBA_to_EL,NBA,EuroLeague,2019/20,2020/21,POR,Panathinaikos AKTOR Athens,0,25
+2067,NBA_to_EL,NBA,EuroLeague,2010/11,2012/13,PHI,Panathinaikos AKTOR Athens,1,31
+2067,NBA_to_EL,NBA,EuroLeague,2011/12,2012/13,LAL,Panathinaikos AKTOR Athens,0,31
+2081,EL_to_NBA,EuroLeague,NBA,2012/13,2014/15,KK Cedevita Zagreb,DEN,1,20
+2087,NBA_to_EL,NBA,EuroLeague,2010/11,2012/13,ATL,Olympiacos Piraeus,1,29
+2087,EL_to_NBA,EuroLeague,NBA,2012/13,2013/14,Olympiacos Piraeus,HOU,0,30
+2106,NBA_to_EL,NBA,EuroLeague,2010/11,2012/13,TOT,Elan Sportif Chalonnais,1,29
+2106,NBA_to_EL,NBA,EuroLeague,2011/12,2012/13,NJN,Elan Sportif Chalonnais,0,29
+2113,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,UTA,BC Budivelnyk,1,29
+2125,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,PHI,GSS Akcyjna,1,26
+2134,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,OKC,BC Budivelnyk,1,26
+2134,NBA_to_EL,NBA,EuroLeague,2012/13,2013/14,TOT,BC Budivelnyk,0,26
+2148,NBA_to_EL,NBA,EuroLeague,2012/13,2013/14,DET,Montepaschi Siena,0,25
+2178,EL_to_NBA,EuroLeague,NBA,2013/14,2015/16,Real Madrid,DAL,1,29
+2178,EL_to_NBA,EuroLeague,NBA,2014/15,2015/16,Real Madrid,DAL,0,29
+2178,NBA_to_EL,NBA,EuroLeague,2017/18,2019/20,DAL,Real Madrid,1,33
+2178,NBA_to_EL,NBA,EuroLeague,2018/19,2019/20,DAL,Real Madrid,0,33
+2179,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,CHA,Olympiacos Piraeus,1,33
+2184,NBA_to_EL,NBA,EuroLeague,2011/12,2013/14,DAL,Baskonia Vitoria-Gasteiz,1,34
+2184,NBA_to_EL,NBA,EuroLeague,2012/13,2013/14,LAC,Baskonia Vitoria-Gasteiz,0,34
+2187,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,Anadolu Efes Istanbul,CLE,1,22
+2187,EL_to_NBA,EuroLeague,NBA,2016/17,2017/18,Anadolu Efes Istanbul,CLE,0,22
+2187,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,CLE,Panathinaikos AKTOR Athens,1,29
+2187,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,SAS,Panathinaikos AKTOR Athens,0,29
+2201,EL_to_NBA,EuroLeague,NBA,2020/21,2021/22,Crvena Zvezda Meridianbet Belgrade,CHI,0,35
+2201,EL_to_NBA,EuroLeague,NBA,2021/22,2022/23,Crvena Zvezda Meridianbet Belgrade,CHI,0,36
+2230,NBA_to_EL,NBA,EuroLeague,2012/13,2014/15,BKN,EA7 Emporio Armani Milan,1,25
+2230,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,TOT,EA7 Emporio Armani Milan,0,25
+2232,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,TOR,Valencia Basket,0,25
+2232,NBA_to_EL,NBA,EuroLeague,2017/18,2019/20,DET,Olympiacos Piraeus,1,30
+2251,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,OKC,Baskonia Vitoria-Gasteiz,0,32
+2255,NBA_to_EL,NBA,EuroLeague,2012/13,2014/15,IND,Baskonia Vitoria-Gasteiz,1,27
+2266,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,Anadolu Efes Istanbul,PHI,1,20
+2266,EL_to_NBA,EuroLeague,NBA,2016/17,2017/18,Anadolu Efes Istanbul,PHI,0,20
+2266,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,PHI,AS Monaco,1,27
+2266,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,PHI,AS Monaco,0,27
+2292,EL_to_NBA,EuroLeague,NBA,2014/15,2016/17,FC Barcelona,WAS,1,25
+2292,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,FC Barcelona,WAS,0,25
+2292,NBA_to_EL,NBA,EuroLeague,2020/21,2022/23,CHI,FC Barcelona,1,31
+2292,NBA_to_EL,NBA,EuroLeague,2021/22,2022/23,WAS,FC Barcelona,0,31
+2296,NBA_to_EL,NBA,EuroLeague,2012/13,2014/15,POR,Galatasaray Spor Kulubu,1,26
+2298,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,TOT,Limoges Cercle Saint-Pierre,0,24
+2314,NBA_to_EL,NBA,EuroLeague,2013/14,2014/15,MIL,PGE Turow Zgorzelec,0,26
+2325,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,UTA,Panathinaikos AKTOR Athens,0,26
+2327,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,UTA,Unicaja Malaga,0,24
+2327,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,Unicaja Malaga,SAC,1,26
+2336,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Maccabi Rapyd Tel Aviv,PHX,0,19
+2336,NBA_to_EL,NBA,EuroLeague,2018/19,2020/21,PHX,Maccabi Rapyd Tel Aviv,1,23
+2336,NBA_to_EL,NBA,EuroLeague,2019/20,2020/21,TOT,Maccabi Rapyd Tel Aviv,0,23
+2355,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,PHX,CSKA Moscow,1,28
+2361,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,NOP,Bamberger Basketball GmbH,1,25
+2361,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,NOP,Bamberger Basketball GmbH,0,25
+2361,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,Bamberger Basketball GmbH,NOP,1,27
+2361,EL_to_NBA,EuroLeague,NBA,2016/17,2017/18,Bamberger Basketball GmbH,NOP,0,27
+2364,NBA_to_EL,NBA,EuroLeague,2018/19,2020/21,BKN,Anadolu Efes Istanbul,1,21
+2364,NBA_to_EL,NBA,EuroLeague,2019/20,2020/21,BKN,Anadolu Efes Istanbul,0,21
+2369,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,TOT,Maccabi Rapyd Tel Aviv,1,28
+2369,NBA_to_EL,NBA,EuroLeague,2014/15,2015/16,MIN,Maccabi Rapyd Tel Aviv,0,28
+2369,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Maccabi Rapyd Tel Aviv,ORL,0,29
+2371,EL_to_NBA,EuroLeague,NBA,2015/16,2016/17,Panathinaikos AKTOR Athens,SAC,0,19
+2371,NBA_to_EL,NBA,EuroLeague,2016/17,2018/19,SAC,Panathinaikos AKTOR Athens,1,21
+2371,NBA_to_EL,NBA,EuroLeague,2017/18,2018/19,TOT,Panathinaikos AKTOR Athens,0,21
+2380,EL_to_NBA,EuroLeague,NBA,2015/16,2017/18,Bamberger Basketball GmbH,BOS,1,25
+2380,EL_to_NBA,EuroLeague,NBA,2016/17,2017/18,Bamberger Basketball GmbH,BOS,0,25
+2380,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,TOT,AS Monaco,0,32
+2380,NBA_to_EL,NBA,EuroLeague,2024/25,2025/26,NOP,AS Monaco,0,33
+2386,NBA_to_EL,NBA,EuroLeague,2013/14,2015/16,TOT,Polisportiva Dinamo,1,27
+2399,NBA_to_EL,NBA,EuroLeague,2015/16,2016/17,TOR,Fenerbahce Beko Istanbul,0,23
+2435,EL_to_NBA,EuroLeague,NBA,2018/19,2020/21,Olympiacos Piraeus,OKC,1,19
+2435,EL_to_NBA,EuroLeague,NBA,2019/20,2020/21,Olympiacos Piraeus,OKC,0,19
+2435,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,OKC,Partizan Mozzart Bet Belgrade,1,23
+2435,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,TOT,Partizan Mozzart Bet Belgrade,0,23
+2438,EL_to_NBA,EuroLeague,NBA,2018/19,2019/20,KK Buducnost,IND,0,20
+2442,NBA_to_EL,NBA,EuroLeague,2016/17,2018/19,UTA,CSKA Moscow,1,24
+2442,NBA_to_EL,NBA,EuroLeague,2017/18,2018/19,MIL,CSKA Moscow,0,24
+2470,EL_to_NBA,EuroLeague,NBA,2018/19,2019/20,Club Baloncesto Gran Canaria,WAS,0,24
+2472,EL_to_NBA,EuroLeague,NBA,2018/19,2020/21,Maccabi Rapyd Tel Aviv,WAS,1,19
+2472,EL_to_NBA,EuroLeague,NBA,2019/20,2020/21,Maccabi Rapyd Tel Aviv,WAS,0,19
+2511,NBA_to_EL,NBA,EuroLeague,2017/18,2019/20,BOS,LDLC ASVEL Villeurbanne,1,24
+2511,NBA_to_EL,NBA,EuroLeague,2018/19,2019/20,BOS,LDLC ASVEL Villeurbanne,0,24
+2511,EL_to_NBA,EuroLeague,NBA,2022/23,2024/25,Real Madrid,PHI,1,29
+2511,EL_to_NBA,EuroLeague,NBA,2023/24,2024/25,Real Madrid,PHI,0,29
+2530,NBA_to_EL,NBA,EuroLeague,2017/18,2019/20,TOT,Olympiacos Piraeus,1,29
+2580,EL_to_NBA,EuroLeague,NBA,2019/20,2020/21,LDLC ASVEL Villeurbanne,OKC,0,19
+2580,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,CHA,LDLC ASVEL Villeurbanne,1,23
+2580,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,TOT,LDLC ASVEL Villeurbanne,0,23
+2616,EL_to_NBA,EuroLeague,NBA,2020/21,2021/22,CSKA Moscow,PHX,0,27
+2616,NBA_to_EL,NBA,EuroLeague,2021/22,2022/23,PHX,Virtus Bologna,0,28
+2669,EL_to_NBA,EuroLeague,NBA,2023/24,2025/26,Crvena Zvezda Meridianbet Belgrade,OKC,1,20
+2678,EL_to_NBA,EuroLeague,NBA,2022/23,2024/25,LDLC ASVEL Villeurbanne,ATL,1,19
+2746,NBA_to_EL,NBA,EuroLeague,2019/20,2021/22,PHI,Fenerbahce Beko Istanbul,1,26
+2780,NBA_to_EL,NBA,EuroLeague,2020/21,2022/23,TOT,Zalgiris Kaunas,1,23
+2780,NBA_to_EL,NBA,EuroLeague,2021/22,2022/23,ORL,Zalgiris Kaunas,0,23
+2797,NBA_to_EL,NBA,EuroLeague,2020/21,2022/23,GSW,Partizan Mozzart Bet Belgrade,1,22
+2815,NBA_to_EL,NBA,EuroLeague,2021/22,2022/23,MEM,LDLC ASVEL Villeurbanne,0,23
+2842,EL_to_NBA,EuroLeague,NBA,2023/24,2025/26,FC Barcelona,MIA,1,19
+2904,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,UTA,Baskonia Vitoria-Gasteiz,1,24
+2904,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,UTA,Baskonia Vitoria-Gasteiz,0,24
+2956,NBA_to_EL,NBA,EuroLeague,2022/23,2024/25,POR,LDLC ASVEL Villeurbanne,1,31
+2956,NBA_to_EL,NBA,EuroLeague,2023/24,2024/25,MEM,LDLC ASVEL Villeurbanne,0,31
+2983,NBA_to_EL,NBA,EuroLeague,2024/25,2025/26,NYK,Partizan Mozzart Bet Belgrade,0,31
+2985,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,WAS,Baskonia Vitoria-Gasteiz,1,28
+2995,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,TOR,Baskonia Vitoria-Gasteiz,1,28
+3019,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,SAC,Real Madrid,1,30
+3019,NBA_to_EL,NBA,EuroLeague,2024/25,2025/26,SAC,Real Madrid,0,30
+3035,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,WAS,Baskonia Vitoria-Gasteiz,1,27
+3042,NBA_to_EL,NBA,EuroLeague,2023/24,2025/26,TOT,Baskonia Vitoria-Gasteiz,1,28
+3046,NBA_to_EL,NBA,EuroLeague,2024/25,2025/26,DEN,EA7 Emporio Armani Milan,0,28
