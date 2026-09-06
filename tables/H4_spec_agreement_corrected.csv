@@ -1,2 +1,0 @@
-n_episodes,pearson_r_sxSV_pre,pearson_r_sxSV_post,pearson_r_delta_sxSV,spearman_r_delta_sxSV,mean_delta_harmonised,mean_delta_league_specific,mean_abs_diff_delta,sign_agreement_%
-31,0.9361043762505801,0.9780497416727518,0.815656841442649,0.8395161290322581,-0.009175735263925395,-0.010210644921642522,0.037712976097924976,83.87096774193549

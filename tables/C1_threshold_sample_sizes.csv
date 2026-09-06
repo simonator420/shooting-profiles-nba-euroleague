@@ -1,9 +1,0 @@
-spec,threshold,n_episodes,n_players,n_NBA→EL,n_EL→NBA,median_FGA_pre,median_FGA_post
-harmonised,50,46,16,24,22,210.0,197.0
-harmonised,100,31,11,12,19,229.0,312.0
-harmonised,150,19,9,4,15,231.0,321.0
-harmonised,200,12,6,2,10,260.5,330.5
-league_specific,50,46,16,24,22,210.0,197.0
-league_specific,100,31,11,12,19,229.0,312.0
-league_specific,150,19,9,4,15,231.0,321.0
-league_specific,200,12,6,2,10,260.5,330.5

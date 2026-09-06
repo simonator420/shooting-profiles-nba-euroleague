@@ -7,14 +7,3 @@ venv/
 .ipynb_checkpoints/
 catboost_info/
 ~$*
-*.log
-tmp/
-outputs/
-figures/
-*.png
-*.pdf
-*.svg
-*.tiff
-*.tif
-*.eps
-*.zip

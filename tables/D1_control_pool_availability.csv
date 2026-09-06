@@ -1,3 +1,0 @@
-pool,n_player_seasons,fga_per_game_%,efg_pct_%,three_pt_pct_%,minutes_per_game_%,age_%,position_%,experience_%,season_%
-EuroLeague non-migrants (control pool for EL→NBA migrants),2224,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
-NBA non-migrants (NBANonMigrantSeasons; controls for NBA→EL migrants),6183,100.0,100.0,100.0,0.0,0.0,0.0,100.0,100.0

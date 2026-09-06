@@ -1,4 +1,0 @@
-source,n_rows,minutes_per_game_%,fga_per_game_%,turnovers_per_game_%,ft_attempts_%,fga_per_min_%,usage_proxy_%
-EuroLeague season table (migrant + all players),8378,56.97063738362378,56.97063738362378,56.97063738362378,100.0,56.97063738362378,56.97063738362378
-NBA season table (migrant + all players),1677,100.0,100.0,99.76147883124628,100.0,100.0,99.76147883124628
-NBANonMigrantSeasons (NBA control pool),8180,0.0,100.0,0.0,0.0,0.0,0.0
