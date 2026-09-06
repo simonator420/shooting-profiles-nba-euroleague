@@ -1,0 +1,4 @@
+reason,EL_to_NBA,NBA_to_EL,total
+no shot-coordinate data on either side,92,108,200
+no shot-coordinate data on one side,114,192,306
+shot data on both sides but <100 FGA,18,34,52

@@ -1,0 +1,11 @@
+stage,n,NBA→EL,EL→NBA,note
+Players in cross-league database,3075,,,EL players 2000/01+ matched against full NBA index
+Players identified as cross-league migrants,402,,,name + date-of-birth confirmed
+Migration episodes detected (all season gaps),589,346.0,243.0,
+Migration episodes retained (gap 0 or 1),589,346.0,243.0,analysis population; unique players = 283
+… with box-score season data on both sides,589,346.0,243.0,broad box-score migration sample
+… with any shot-coordinate data on both sides,83,46.0,37.0,EuroLeague shot coordinates exist from 2007/08 only
+… passing ≥50 FGA on BOTH sides,46,24.0,22.0,sensitivity; unique players = 16
+… passing ≥100 FGA on BOTH sides,31,12.0,19.0,PRIMARY analysis sample; unique players = 11
+… passing ≥150 FGA on BOTH sides,19,4.0,15.0,sensitivity; unique players = 9
+… passing ≥200 FGA on BOTH sides,12,2.0,10.0,sensitivity; unique players = 6

@@ -1,0 +1,6 @@
+sample,n_episodes,n_distinct_moves,n_players,episodes_per_move
+box-score sample (all 589 episodes),589,418,283,1.4090909090909092
+"shot-coordinate sample, >=50 FGA",46,26,16,1.7692307692307692
+"shot-coordinate sample, >=100 FGA",31,19,11,1.631578947368421
+"shot-coordinate sample, >=150 FGA",19,12,9,1.5833333333333333
+"shot-coordinate sample, >=200 FGA",12,7,6,1.7142857142857142
